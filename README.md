@@ -46,15 +46,13 @@
 <br />
 
 <p align="center">
-  <sub>
-    <a href="#01--signal">Signal</a> &nbsp;·&nbsp;
-    <a href="#02--selected-work">Selected Work</a> &nbsp;·&nbsp;
-    <a href="#03--experience">Experience</a> &nbsp;·&nbsp;
-    <a href="#04--technical-arsenal">Technical Arsenal</a> &nbsp;·&nbsp;
-    <a href="#05--github-activity">GitHub Activity</a> &nbsp;·&nbsp;
-    <a href="#06--education--certifications">Education</a> &nbsp;·&nbsp;
-    <a href="#07--languages">Languages</a>
-  </sub>
+  <a href="#01--signal"><img src="https://img.shields.io/badge/01-Signal-E9C8F4?style=flat-square&labelColor=3A1F3D" alt="Signal" /></a>
+  <a href="#02--selected-work"><img src="https://img.shields.io/badge/02-Selected%20Work-FADADD?style=flat-square&labelColor=3A1F3D" alt="Selected Work" /></a>
+  <a href="#03--experience"><img src="https://img.shields.io/badge/03-Experience-B88CC6?style=flat-square&labelColor=3A1F3D" alt="Experience" /></a>
+  <a href="#04--technical-arsenal"><img src="https://img.shields.io/badge/04-Technical%20Arsenal-E9C8F4?style=flat-square&labelColor=3A1F3D" alt="Technical Arsenal" /></a>
+  <a href="#05--github-activity"><img src="https://img.shields.io/badge/05-GitHub%20Activity-FADADD?style=flat-square&labelColor=3A1F3D" alt="GitHub Activity" /></a>
+  <a href="#06--education--certifications"><img src="https://img.shields.io/badge/06-Education-B88CC6?style=flat-square&labelColor=3A1F3D" alt="Education" /></a>
+  <a href="#07--languages"><img src="https://img.shields.io/badge/07-Languages-E9C8F4?style=flat-square&labelColor=3A1F3D" alt="Languages" /></a>
 </p>
 
 <br />
@@ -327,10 +325,6 @@ Multi-platform pregnancy and maternity tracker spanning **Web, Mobile, and Deskt
 ### 05 — GitHub activity
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Zaineb-Messaoudi&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=10" alt="GitHub trophies" />
-</div>
-
-<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zaineb-Messaoudi&show_icons=true&hide_border=true&bg_color=1A1020&title_color=E9C8F4&icon_color=FADADD&text_color=F7EAF2&ring=B88CC6" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaineb-Messaoudi&layout=compact&hide_border=true&bg_color=1A1020&title_color=E9C8F4&text_color=F7EAF2" alt="Top languages" />
 </div>
@@ -347,18 +341,25 @@ Multi-platform pregnancy and maternity tracker spanning **Web, Mobile, and Deskt
 
 ### 06 — Education & certifications
 
-| Education | |
-| :--- | ---: |
-| Engineering Degree — Software Engineering (TWIN, Web & Internet Technologies) · ESPRIT School of Engineering | Expected 10/2027 |
-| Bachelor's — Computer Science & Multimedia · ISAMM | 06/2024 |
+**ESPRIT School of Engineering** — *Software Engineering, TWIN (Web & Internet Technologies)*  
+<sub>Expected 10/2027 · Tunis, Tunisia</sub>
+- BuildDream team: 3 cross-disciplinary academic projects spanning AI, microservices, and accessibility
+- Hextech team: 3 synchronized platforms delivered simultaneously across web, mobile, and desktop
 
-| Certifications | |
-| :--- | ---: |
-| MongoDB CRUD Operations · MongoDB | 12/2025 |
-| Prompt Engineering and Generative AI · Coursera (ODC) | 06/2025 |
-| Microsoft Azure Fundamentals (AZ-900) · Microsoft Learn | 07/2024 |
-| Full Stack Web Development · freeCodeCamp | 07/2023 |
-| Machine Learning with Python · freeCodeCamp | 06/2023 |
+**ISAMM, Manouba** — *Bachelor's Degree, Computer Science & Multimedia*  
+<sub>06/2024 · Manouba, Tunisia</sub>
+- Foundation in software design, UX design, 2D work, and multimedia programming
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB%20CRUD%20Operations-MongoDB%20%C2%B7%2012%2F2025-E9C8F4?style=for-the-badge&labelColor=3A1F3D" alt="MongoDB CRUD Operations — MongoDB, Dec 2025" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering%20%26%20Generative%20AI-Coursera%20(ODC)%20%C2%B7%2006%2F2025-FADADD?style=for-the-badge&labelColor=3A1F3D" alt="Prompt Engineering and Generative AI — Coursera ODC, Jun 2025" />
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals%20(AZ--900)-Microsoft%20Learn%20%C2%B7%2007%2F2024-B88CC6?style=for-the-badge&labelColor=3A1F3D" alt="Microsoft Azure Fundamentals AZ-900 — Microsoft Learn, Jul 2024" />
+  <br />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-freeCodeCamp%20%C2%B7%2007%2F2023-E9C8F4?style=for-the-badge&labelColor=3A1F3D" alt="Full Stack Web Development — freeCodeCamp, Jul 2023" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-freeCodeCamp%20%C2%B7%2006%2F2023-FADADD?style=for-the-badge&labelColor=3A1F3D" alt="Machine Learning with Python — freeCodeCamp, Jun 2023" />
+</p>
 
 <img src="assets/section-divider.svg" width="100%" alt="" />
 
