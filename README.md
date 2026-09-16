@@ -68,15 +68,30 @@ Modern · Clean · Elegant · Approachable · Software Engineering
 
 ### 01 — Signal
 
-Four internships. Five shipped products. Numbers instead of adjectives.
+<p><strong>Four internships. Five shipped products. Numbers instead of adjectives.</strong></p>
 
 <table>
 <tr>
-<td align="center" width="20%"><h2>40%</h2><sub>BCT — collaboration cycle reduced</sub></td>
-<td align="center" width="20%"><h2>60%</h2><sub>I-Way — per-file processing time cut</sub></td>
-<td align="center" width="20%"><h2>0.88</h2><sub>TalentLens — salary model R²</sub></td>
-<td align="center" width="20%"><h2><500ms</h2><sub>I-Way — P95 latency at load</sub></td>
-<td align="center" width="20%"><h2>2 mo</h2><sub>HikmaLearn — start to WCAG 2.1 audit</sub></td>
+<td align="center" width="20%" valign="top">
+  <h2>⚡ 40%</h2>
+  <sub>BCT — collaboration cycle reduced</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <h2>🚀 60%</h2>
+  <sub>I-Way — per-file processing time cut</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <h2>📈 0.88</h2>
+  <sub>TalentLens — salary model R²</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <h2>⚡ <500ms</h2>
+  <sub>I-Way — P95 latency at load</sub>
+</td>
+<td align="center" width="20%" valign="top">
+  <h2>🧭 2 mo</h2>
+  <sub>HikmaLearn — start to WCAG 2.1 audit</sub>
+</td>
 </tr>
 </table>
 
@@ -84,22 +99,56 @@ Four internships. Five shipped products. Numbers instead of adjectives.
 
 ### 02 — Selected work
 
-| Project | Focus | Impact | Stack | Repo |
-| :--- | :--- | :--- | :--- | :---: |
-| **TalentLens** | ML · HR intelligence (lead) | R² 0.88 salary · AUC 0.75 career | Python, XGBoost, LightGBM, SHAP, React | [↗](https://github.com/Zaineb-Messaoudi/TalentLens-BuildDream-ProjectML) |
-| **Oralis** | Full-stack · speech AI | STT, fillers, pauses, pronunciation + RBAC | React, NestJS, FastAPI, MongoDB, Docker | [↗](https://github.com/Zaineb-Messaoudi/Esprit-PIWEB-4TWIN7-2026-AI-Web-Platform-for-Oral-Assessment) |
-| **HikmaLearn** | Full-stack · accessibility | 2 months, production, WCAG 2.1 | React, Django REST | — |
-| **Motherise** | Full-stack · cross-platform | Web + mobile + desktop, synced | Symfony, FlutterFlow, Firebase, JavaFX | [↗](https://github.com/Zaineb-Messaoudi/symfony-motherise-evenement) |
+<table>
+<tr>
+<td><strong>Project</strong></td>
+<td><strong>Focus</strong></td>
+<td><strong>Impact</strong></td>
+<td><strong>Stack</strong></td>
+<td><strong>Repo</strong></td>
+</tr>
+<tr>
+<td><strong>TalentLens</strong></td>
+<td>ML · HR intelligence (lead)</td>
+<td>R² 0.88 salary · AUC 0.75 career</td>
+<td>Python, XGBoost, LightGBM, SHAP, React</td>
+<td>[↗](https://github.com/Zaineb-Messaoudi/TalentLens-BuildDream-ProjectML)</td>
+</tr>
+<tr>
+<td><strong>Oralis</strong></td>
+<td>Full-stack · speech AI</td>
+<td>STT, fillers, pauses, pronunciation + RBAC</td>
+<td>React, NestJS, FastAPI, MongoDB, Docker</td>
+<td>[↗](https://github.com/Zaineb-Messaoudi/Esprit-PIWEB-4TWIN7-2026-AI-Web-Platform-for-Oral-Assessment)</td>
+</tr>
+<tr>
+<td><strong>HikmaLearn</strong></td>
+<td>Full-stack · accessibility</td>
+<td>2 months, production, WCAG 2.1</td>
+<td>React, Django REST</td>
+<td>—</td>
+</tr>
+<tr>
+<td><strong>Motherise</strong></td>
+<td>Full-stack · cross-platform</td>
+<td>Web + mobile + desktop, synced</td>
+<td>Symfony, FlutterFlow, Firebase, JavaFX</td>
+<td>[↗](https://github.com/Zaineb-Messaoudi/symfony-motherise-evenement)</td>
+</tr>
+</table>
 
-**01 / TALENTLENS** — *ML · HR Intelligence · Lead Machine Learning*  
-[github.com/Zaineb-Messaoudi/TalentLens-BuildDream-ProjectML](https://github.com/Zaineb-Messaoudi/TalentLens-BuildDream-ProjectML)
+<div align="left">
+  <h3>01 / TALENTLENS</h3>
+  <p><em>ML · HR intelligence · Lead Machine Learning</em></p>
+  <p><a href="https://github.com/Zaineb-Messaoudi/TalentLens-BuildDream-ProjectML">github.com/Zaineb-Messaoudi/TalentLens-BuildDream-ProjectML</a></p>
+</div>
 
-HR intelligence platform with a 5-person team. Led the Career Machine Learning module: salary prediction, career-trajectory classification, and SHAP-based explainability, plus anomaly detection, employee segmentation, and job recommendation.
+<p><strong>HR intelligence platform</strong> with a 5-person team. Led the Career Machine Learning module: salary prediction, career-trajectory classification, and SHAP-based explainability, plus anomaly detection, employee segmentation, and job recommendation.</p>
 
 <table>
 <tr>
-<td align="center" width="50%"><h3>0.88</h3><sub>R² — salary regression</sub></td>
-<td align="center" width="50%"><h3>0.75</h3><sub>AUC — career classification</sub></td>
+<td align="center" width="50%"><h3>📊 0.88</h3><sub>R² — salary regression</sub></td>
+<td align="center" width="50%"><h3>🎯 0.75</h3><sub>AUC — career classification</sub></td>
 </tr>
 </table>
 
@@ -107,27 +156,36 @@ HR intelligence platform with a 5-person team. Led the Career Machine Learning m
 
 <br />
 
-**02 / ORALIS** — *Full-Stack · Speech AI*  
-[github.com/Zaineb-Messaoudi/Esprit-PIWEB-4TWIN7-2026-AI-Web-Platform-for-Oral-Assessment](https://github.com/Zaineb-Messaoudi/Esprit-PIWEB-4TWIN7-2026-AI-Web-Platform-for-Oral-Assessment)
+<div align="left">
+  <h3>02 / ORALIS</h3>
+  <p><em>Full-Stack · Speech AI</em></p>
+  <p><a href="https://github.com/Zaineb-Messaoudi/Esprit-PIWEB-4TWIN7-2026-AI-Web-Platform-for-Oral-Assessment">github.com/Zaineb-Messaoudi/Esprit-PIWEB-4TWIN7-2026-AI-Web-Platform-for-Oral-Assessment</a></p>
+</div>
 
-AI-powered platform for evaluating oral presentations, built with a 5-person team: speech-to-text, filler-word detection, pause analysis, and pronunciation scoring, behind JWT auth and role-based access control. Containerized and shipped through a CI/CD pipeline.
+<p><strong>AI-powered oral assessment platform</strong> built with a 5-person team: speech-to-text, filler-word detection, pause analysis, and pronunciation scoring, behind JWT auth and role-based access control. Containerized and shipped through a CI/CD pipeline.</p>
 
 `REACT` `NESTJS` `FASTAPI` `PYTHON` `MONGODB` `DOCKER` `JWT` `RBAC`
 
 <br />
 
-**03 / HIKMALEARN** — *Full-Stack · Accessibility · Esprit Tech*
+<div align="left">
+  <h3>03 / HIKMALEARN</h3>
+  <p><em>Full-Stack · Accessibility · Esprit Tech</em></p>
+</div>
 
-Full-stack accessibility platform for students with disabilities, designed and delivered in two months on a 6-person team — ReactJS frontend, Django REST backend, deployed to production and passed a **WCAG 2.1** audit. Shipped automated video captioning, screen-reader support, keyboard navigation, and AI-generated image descriptions.
+<p><strong>Accessibility-first learning platform</strong> for students with disabilities, designed and delivered in two months on a 6-person team — ReactJS frontend, Django REST backend, deployed to production and passed a <strong>WCAG 2.1</strong> audit. Shipped automated video captioning, screen-reader support, keyboard navigation, and AI-generated image descriptions.</p>
 
 `REACT` `DJANGO REST` `WCAG 2.1` `A11Y`
 
 <br />
 
-**04 / MOTHERISE** — *Pregnancy & maternity tracking · Web, Mobile, Desktop*  
-[github.com/Zaineb-Messaoudi/symfony-motherise-evenement](https://github.com/Zaineb-Messaoudi/symfony-motherise-evenement)
+<div align="left">
+  <h3>04 / MOTHERISE</h3>
+  <p><em>Pregnancy & maternity tracking · Web, Mobile, Desktop</em></p>
+  <p><a href="https://github.com/Zaineb-Messaoudi/symfony-motherise-evenement">github.com/Zaineb-Messaoudi/symfony-motherise-evenement</a></p>
+</div>
 
-Multi-platform pregnancy and maternity tracker spanning **Web, Mobile, and Desktop**, built with a 6-person team with consistent data synchronization across all three clients, backed by Firebase and SQL persistence.
+<p><strong>Multi-platform health tracking experience</strong> spanning <strong>Web, Mobile, and Desktop</strong>, built with a 6-person team with consistent data synchronization across all three clients, backed by Firebase and SQL persistence.</p>
 
 `SYMFONY` `PHP` `FLUTTERFLOW` `FIREBASE` `JAVAFX` `SQL`
 
@@ -135,31 +193,51 @@ Multi-platform pregnancy and maternity tracker spanning **Web, Mobile, and Deskt
 
 ### 03 — Experience
 
-**Full Stack Developer Intern** · QCMed · Remote &nbsp;<sub>06/2026 – 08/2026</sub>
-- Shipped React + NestJS quiz/challenge modules with granular resident progress tracking
-- Built a Node.js REST API exposing MongoDB-aggregated answer statistics, with a real-time WebSocket-synced admin dashboard
-- Optimized the partial-credit scoring engine and wired AWS SES notification workflows
+<div align="left">
+  <h3>🚀 Full Stack Developer Intern</h3>
+  <p><strong>QCMed</strong> · Remote &nbsp;<sub>06/2026 – 08/2026</sub></p>
+  <ul>
+    <li>Shipped React + NestJS quiz/challenge modules with granular resident progress tracking</li>
+    <li>Built a Node.js REST API exposing MongoDB-aggregated answer statistics, with a real-time WebSocket-synced admin dashboard</li>
+    <li>Optimized the partial-credit scoring engine and wired AWS SES notification workflows</li>
+  </ul>
+</div>
 
-**Web Developer Intern** · Esprit Tech · Ariana, Tunis &nbsp;<sub>07/2025 – 08/2025</sub>
-- Delivered HikmaLearn — ReactJS + Django REST — in 2 months, passing a WCAG 2.1 accessibility audit
-- Shipped automated captioning, screen-reader support, keyboard navigation, and AI-generated image descriptions
-- Worked in two-week sprints on a 6-person team with systematic code review
+<div align="left">
+  <h3>🌐 Web Developer Intern</h3>
+  <p><strong>Esprit Tech</strong> · Ariana, Tunis &nbsp;<sub>07/2025 – 08/2025</sub></p>
+  <ul>
+    <li>Delivered HikmaLearn — ReactJS + Django REST — in 2 months, passing a WCAG 2.1 accessibility audit</li>
+    <li>Shipped automated captioning, screen-reader support, keyboard navigation, and AI-generated image descriptions</li>
+    <li>Worked in two-week sprints on a 6-person team with systematic code review</li>
+  </ul>
+</div>
 
-**Web Developer Intern** · Banque Centrale de Tunisie (BCT) · Tunis &nbsp;<sub>02/2024 – 06/2024</sub>
-- Replaced a manual, Excel-based inter-departmental coordination process — cutting the collaboration cycle by **40%**
-- Built role-based access control, a complete audit trail, and calendar/logistics management
-- Spring Boot, Java, Thymeleaf, SQL backend; Figma prototyping; delivered in 2-week agile sprints
+<div align="left">
+  <h3>🏦 Web Developer Intern</h3>
+  <p><strong>Banque Centrale de Tunisie (BCT)</strong> · Tunis &nbsp;<sub>02/2024 – 06/2024</sub></p>
+  <ul>
+    <li>Replaced a manual, Excel-based inter-departmental coordination process — cutting the collaboration cycle by <strong>40%</strong></li>
+    <li>Built role-based access control, a complete audit trail, and calendar/logistics management</li>
+    <li>Spring Boot, Java, Thymeleaf, SQL backend; Figma prototyping; delivered in 2-week agile sprints</li>
+  </ul>
+</div>
 
-**Odoo Developer Intern** · I-Way · Manar 1, Tunis &nbsp;<sub>07/2022 – 08/2022</sub>
-- Automated the patient appointment booking workflow, eliminating manual processing — **60%** faster per file
-- Tuned PostgreSQL queries and application-level caching to hold P95 latency **under 500ms**
-- Supported production deployment with cross-team functional validation
+<div align="left">
+  <h3>🧩 Odoo Developer Intern</h3>
+  <p><strong>I-Way</strong> · Manar 1, Tunis &nbsp;<sub>07/2022 – 08/2022</sub></p>
+  <ul>
+    <li>Automated the patient appointment booking workflow, eliminating manual processing — <strong>60%</strong> faster per file</li>
+    <li>Tuned PostgreSQL queries and application-level caching to hold P95 latency <strong>under 500ms</strong></li>
+    <li>Supported production deployment with cross-team functional validation</li>
+  </ul>
+</div>
 
 <img src="assets/section-divider.svg" width="100%" alt="" />
 
 ### 04 — Technical arsenal
 
-**Core**
+<p><strong>Core</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/React-E9C8F4?style=for-the-badge&logo=react&logoColor=3A1F3D&labelColor=3A1F3D" alt="React" />
@@ -177,7 +255,7 @@ Multi-platform pregnancy and maternity tracker spanning **Web, Mobile, and Deskt
 <img src="https://img.shields.io/badge/SHAP-FADADD?style=for-the-badge&labelColor=3A1F3D" alt="SHAP" />
 </p>
 
-**Also worked with**
+<p><strong>Also worked with</strong></p>
 
 `Angular` `JavaFX` `Symfony` `PHP` `C/C++` `Firebase` `MySQL` `Django` `Node.js` `Jenkins` `Kubernetes` `Figma` `Adobe Creative Suite` `Jira` `Scrum / Kanban / Agile`
 
