@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="careerTitle">
+  <title id="careerTitle">Four internships from 2022 to 2026, across Odoo, banking, edtech, and healthtech</title>
+  <defs>
+    <linearGradient id="arcLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3A1F3D" stop-opacity="0"/>
+      <stop offset="0.08" stop-color="#B88CC6"/>
+      <stop offset="0.5" stop-color="#E9C8F4"/>
+      <stop offset="0.92" stop-color="#FADADD"/>
+      <stop offset="1" stop-color="#FADADD" stop-opacity="0"/>
+    </linearGradient>
+    <marker id="arrowHead" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#FADADD"/>
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="178" rx="18" fill="#1A1020"/>
+
+  <text x="28" y="32" font-family="Verdana, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#B88CC6">03 — EXPERIENCE</text>
+  <text x="872" y="32" text-anchor="end" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#6B4A70">2022 → 2026</text>
+
+  <line x1="80" y1="100" x2="830" y2="100" stroke="url(#arcLine)" stroke-width="1.75" marker-end="url(#arrowHead)"/>
+
+  <!-- Node 1 : I-Way -->
+  <circle cx="110" cy="100" r="6" fill="#1A1020" stroke="#B88CC6" stroke-width="2"/>
+  <text x="110" y="80" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F7EAF2">I-Way</text>
+  <text x="110" y="122" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#C4A0C8">Odoo Developer</text>
+  <text x="110" y="137" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#6B4A70">07/2022 – 08/2022</text>
+
+  <!-- Node 2 : BCT -->
+  <circle cx="340" cy="100" r="6" fill="#1A1020" stroke="#E9C8F4" stroke-width="2"/>
+  <text x="340" y="80" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F7EAF2">Banque Centrale de Tunisie</text>
+  <text x="340" y="122" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#C4A0C8">Web Developer</text>
+  <text x="340" y="137" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#6B4A70">02/2024 – 06/2024</text>
+
+  <!-- Node 3 : Esprit Tech -->
+  <circle cx="570" cy="100" r="6" fill="#1A1020" stroke="#E9C8F4" stroke-width="2"/>
+  <text x="570" y="80" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F7EAF2">Esprit Tech</text>
+  <text x="570" y="122" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#C4A0C8">Web Developer</text>
+  <text x="570" y="137" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#6B4A70">07/2025 – 08/2025</text>
+
+  <!-- Node 4 : QCMed -->
+  <circle cx="800" cy="100" r="6.5" fill="#1A1020" stroke="#FADADD" stroke-width="2.25"/>
+  <text x="800" y="80" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F7EAF2">QCMed</text>
+  <text x="800" y="122" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#C4A0C8">Full-Stack Developer</text>
+  <text x="800" y="137" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#6B4A70">06/2026 – 08/2026</text>
+
+  <text x="450" y="163" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" font-style="italic" fill="#6B4A70">Odoo → banking systems → accessibility → healthtech, each one bigger than the last</text>
+</svg>

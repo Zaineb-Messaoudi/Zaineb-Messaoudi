@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="signalTitle">
+  <title id="signalTitle">Four internships, five metrics across a two-year arc</title>
+  <defs>
+    <linearGradient id="signalLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FADADD" stop-opacity="0"/>
+      <stop offset="0.1" stop-color="#FADADD"/>
+      <stop offset="0.5" stop-color="#E9C8F4"/>
+      <stop offset="0.9" stop-color="#B88CC6"/>
+      <stop offset="1" stop-color="#3A1F3D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#E9C8F4" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#E9C8F4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="218" rx="18" fill="#1A1020"/>
+
+  <text x="28" y="34" font-family="Verdana, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#B88CC6">01 — SIGNAL</text>
+  <text x="872" y="34" text-anchor="end" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#6B4A70">4 internships · 5 shipped products</text>
+
+  <path d="M90,132 C140,118 220,146 270,132 C320,118 400,146 450,132 C500,118 580,146 630,132 C680,118 760,146 810,132"
+        fill="none" stroke="url(#signalLine)" stroke-width="1.75"/>
+
+  <!-- Node 1 -->
+  <circle cx="90" cy="132" r="16" fill="url(#nodeGlow)"/>
+  <circle cx="90" cy="132" r="5.5" fill="#1A1020" stroke="#FADADD" stroke-width="2"/>
+  <text x="90" y="95" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700" fill="#F7EAF2">40%</text>
+  <text x="90" y="115" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10.5" letter-spacing="0.5" fill="#E9C8F4">BCT</text>
+  <text x="90" y="166" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">collaboration cycle</text>
+  <text x="90" y="180" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">reduced</text>
+
+  <!-- Node 2 -->
+  <circle cx="270" cy="132" r="16" fill="url(#nodeGlow)"/>
+  <circle cx="270" cy="132" r="5.5" fill="#1A1020" stroke="#E9C8F4" stroke-width="2"/>
+  <text x="270" y="95" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700" fill="#F7EAF2">60%</text>
+  <text x="270" y="115" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10.5" letter-spacing="0.5" fill="#E9C8F4">I-WAY</text>
+  <text x="270" y="166" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">per-file processing</text>
+  <text x="270" y="180" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">time cut</text>
+
+  <!-- Node 3 -->
+  <circle cx="450" cy="132" r="16" fill="url(#nodeGlow)"/>
+  <circle cx="450" cy="132" r="5.5" fill="#1A1020" stroke="#E9C8F4" stroke-width="2"/>
+  <text x="450" y="95" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700" fill="#F7EAF2">0.88</text>
+  <text x="450" y="115" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10.5" letter-spacing="0.5" fill="#E9C8F4">TALENTLENS</text>
+  <text x="450" y="166" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">salary model</text>
+  <text x="450" y="180" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">R² score</text>
+
+  <!-- Node 4 -->
+  <circle cx="630" cy="132" r="16" fill="url(#nodeGlow)"/>
+  <circle cx="630" cy="132" r="5.5" fill="#1A1020" stroke="#B88CC6" stroke-width="2"/>
+  <text x="630" y="95" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="26" font-weight="700" fill="#F7EAF2">&lt;500ms</text>
+  <text x="630" y="115" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10.5" letter-spacing="0.5" fill="#E9C8F4">I-WAY</text>
+  <text x="630" y="166" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">P95 latency</text>
+  <text x="630" y="180" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">at load</text>
+
+  <!-- Node 5 -->
+  <circle cx="810" cy="132" r="16" fill="url(#nodeGlow)"/>
+  <circle cx="810" cy="132" r="5.5" fill="#1A1020" stroke="#B88CC6" stroke-width="2"/>
+  <text x="810" y="95" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700" fill="#F7EAF2">2 mo</text>
+  <text x="810" y="115" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10.5" letter-spacing="0.5" fill="#E9C8F4">HIKMALEARN</text>
+  <text x="810" y="166" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">start to WCAG 2.1</text>
+  <text x="810" y="180" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9.5" fill="#C4A0C8">audit</text>
+</svg>
