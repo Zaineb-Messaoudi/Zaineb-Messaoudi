@@ -1,123 +1,143 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Zaineb Messaoudi — Software Engineer, Full-Stack / AI / Product">
-</picture>
+<img src="assets/hero-banner.svg" width="100%" alt="Zaineb Messaoudi — Software Engineer, Full-Stack &amp; AI" />
+
+<br />
+
+**Full-stack products across fintech, healthcare, and accessibility — with production AI.**
+
+[Portfolio](https://zainebportfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/zaineb-messaoudi-ab7b61252) &nbsp;·&nbsp; [Email](mailto:zaineb.messaoudi@esprit.tn) &nbsp;·&nbsp; Tunis, Tunisia
 
 </div>
 
-<br>
+<br />
+
+<img src="assets/section-divider.svg" width="100%" alt="" />
+
+### 01 — SIGNAL
+
+Four internships, five shipped products, numbers instead of adjectives.
 
 <table>
 <tr>
-<td width="68%" valign="top">
-
-*Third-year Software Engineering student at ESPRIT, working across full-stack systems and applied AI.*
-*Four internships — fintech, healthcare, edtech.*
-*Currently building toward a final-year internship, six months or longer, starting January.*
-
-</td>
-<td width="32%" valign="top">
-
-```
-LOCATION    Tunis, TN
-FOCUS       Full-Stack / AI
-STATUS      Open to internship
-START       January 2027
-DURATION    6 months+
-```
-
-</td>
+<td align="center" width="20%"><h2>40%</h2><sub>BCT — collaboration cycle reduced</sub></td>
+<td align="center" width="20%"><h2>60%</h2><sub>I-Way — per-file processing time cut</sub></td>
+<td align="center" width="20%"><h2>0.88</h2><sub>TalentLens — salary model R²</sub></td>
+<td align="center" width="20%"><h2>&lt;500ms</h2><sub>I-Way — P95 latency at load</sub></td>
+<td align="center" width="20%"><h2>2 mo</h2><sub>HikmaLearn — accessibility platform, start to WCAG audit</sub></td>
 </tr>
 </table>
 
-<br>
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
-### 01 — SELECTED WORK
+### 02 — SELECTED WORK
 
-<br>
+<br />
 
-**TalentLens** · `2026`
-<sub>Lead, Machine Learning</sub>
+**01 / TALENTLENS** — *ML · HR Intelligence · Lead Machine Learning*
 
-HR intelligence platform built within a five-person team. Salary prediction and career trajectory models — R² 0.88, AUC 0.75 — with SHAP explainability for transparent, actionable insight.
+HR intelligence platform built with a 5-person team. Led the Career Machine Learning module: salary prediction, career-trajectory classification, and SHAP-based explainability, alongside anomaly detection, employee segmentation, and job recommendation.
 
-`Python` `XGBoost` `LightGBM` `SHAP` `React`
+<table>
+<tr>
+<td align="center" width="50%"><h3>0.88</h3><sub>R² — salary regression</sub></td>
+<td align="center" width="50%"><h3>0.75</h3><sub>AUC — career classification</sub></td>
+</tr>
+</table>
 
-<br>
+`PYTHON` `XGBOOST` `LIGHTGBM` `SCIKIT-LEARN` `SHAP` `PANDAS` `REACT`
 
----
+<br />
 
-<br>
+**02 / ORALIS** — *Full-Stack · Speech AI*
 
-**Oralis** · `2026`
-<sub>Full Stack Developer</sub>
+AI-powered platform for evaluating oral presentations, built with a 5-person team: speech-to-text conversion, filler-word detection, pause analysis, and pronunciation scoring, behind JWT auth and role-based access control. Containerized and shipped through a CI/CD pipeline.
 
-AI-evaluated public speaking platform — speech-to-text, filler-word detection, pause analysis, pronunciation scoring. JWT-secured, containerized, shipped through CI/CD.
+`REACT` `NESTJS` `FASTAPI` `PYTHON` `MONGODB` `DOCKER` `JWT` `RBAC`
 
-`React` `NestJS` `FastAPI` `Docker`
+<br />
 
-<br>
+**03 / HIKMALEARN** — *Full-Stack · Accessibility · Esprit Tech*
 
----
+Full-stack accessibility platform for students with disabilities, designed and delivered in two months on a 6-person team — ReactJS frontend, Django REST backend, deployed to production and passed a **WCAG 2.1** audit. Shipped automated video captioning, screen-reader support, keyboard navigation, and AI-generated image descriptions.
 
-<br>
+`REACT` `DJANGO REST` `WCAG 2.1` `A11Y`
 
-**HIKMALEARN** · `2025`
-<sub>Web Developer — Esprit Tech</sub>
+<br />
 
-Full-stack accessibility platform for students with disabilities, delivered in two months and passed a WCAG 2.1 audit. Automated captioning, screen-reader support, AI-generated image descriptions.
+**04 / MATERNITY & PREGNANCY TRACKING PLATFORM** — *Full-Stack · Cross-Platform*
 
-`React` `Django` `Accessibility`
+Multi-platform pregnancy and maternity tracker spanning **Web, Mobile, and Desktop**, built with a 6-person team with consistent data synchronization across all three clients, backed by Firebase and SQL persistence.
 
-<br>
+`SYMFONY` `PHP` `FLUTTERFLOW` `FIREBASE` `JAVAFX` `SQL`
 
----
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
-<br>
+### 03 — EXPERIENCE
 
-**Maternity & Pregnancy Tracker** · `2025`
-<sub>Full Stack Developer</sub>
+**Full Stack Developer Intern** · QCMed · Remote &nbsp;<sub>06/2026 – 08/2026</sub>
+- Shipped React + NestJS quiz/challenge modules with granular resident progress tracking
+- Built a Node.js REST API exposing MongoDB-aggregated answer statistics, with a real-time WebSocket-synced admin dashboard
+- Optimized the partial-credit scoring engine and wired AWS SES notification workflows
 
-Multi-platform application — web, mobile, desktop — with synchronized data across all three, built within a six-person team.
+**Web Developer Intern** · Esprit Tech · Ariana, Tunis &nbsp;<sub>07/2025 – 08/2025</sub>
+- Delivered HikmaLearn — ReactJS + Django REST — in 2 months, passing a WCAG 2.1 accessibility audit
+- Shipped automated captioning, screen-reader support, keyboard navigation, and AI-generated image descriptions
+- Worked in two-week sprints on a 6-person team with systematic code review
 
-`Symfony` `FlutterFlow` `Firebase` `JavaFX`
+**Web Developer Intern** · Banque Centrale de Tunisie (BCT) · Tunis &nbsp;<sub>02/2024 – 06/2024</sub>
+- Replaced a manual, Excel-based inter-departmental coordination process — cutting the collaboration cycle by **40%**
+- Built role-based access control, a complete audit trail, and calendar/logistics management
+- Spring Boot, Java, Thymeleaf, SQL backend; Figma prototyping; delivered in 2-week agile sprints
 
-<br>
+**Odoo Developer Intern** · I-Way · Manar 1, Tunis &nbsp;<sub>07/2022 – 08/2022</sub>
+- Automated the patient appointment booking workflow, eliminating manual processing — **60%** faster per file
+- Tuned PostgreSQL queries and application-level caching to hold P95 latency **under 500ms**
+- Supported production deployment with cross-team functional validation
 
-<div align="right"><sub><a href="https://zainebportfolio.vercel.app/">full case studies &#8594;</a></sub></div>
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
-<br>
+### 04 — STACK
 
-### 02 — EXPERIENCE
+**Core**
+`REACT` `TYPESCRIPT` `NESTJS` `FASTAPI` `PYTHON` `JAVA` `SPRING BOOT` `MONGODB` `POSTGRESQL` `DOCKER` `XGBOOST` `LIGHTGBM` `SHAP`
 
-```
-2026        QCMed                            Full Stack Developer Intern
-2025        Esprit Tech                       Web Developer Intern — HIKMALEARN
-2024        Banque Centrale de Tunisie        Web Developer Intern
-2022        I-Way                             Odoo Developer Intern
-```
+<sub>Also worked with — Angular · JavaFX · Symfony · PHP · C/C++ · Firebase · MySQL · Django · Jenkins · Kubernetes · Figma · Adobe Creative Suite · Jira · Scrum / Kanban / Agile</sub>
 
-<br>
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
-### 03 — CAPABILITIES
+### 05 — EDUCATION & CERTIFICATIONS
 
-```
-LANGUAGES     Java · TypeScript · Python · PHP · C / C++
-FRONTEND      React · Angular · JavaFX
-BACKEND       NestJS · FastAPI · Spring Boot · Django · Symfony
-DATA / AI     Machine Learning · NLP · XGBoost · SHAP
-INFRA         Docker · Kubernetes · Git · CI/CD
-```
+| Education | |
+|---|---|
+| Engineering Degree — Software Engineering (TWIN, Web & Internet Technologies) · ESPRIT School of Engineering | Expected 10/2027 |
+| Bachelor's — Computer Science & Multimedia · ISAMM | 06/2024 |
 
-<br>
+| Certifications | |
+|---|---|
+| MongoDB CRUD Operations · MongoDB | 12/2025 |
+| Prompt Engineering and Generative AI · Coursera (ODC) | 06/2025 |
+| Microsoft Azure Fundamentals (AZ-900) · Microsoft Learn | 07/2024 |
+| Full Stack Web Development · freeCodeCamp | 07/2023 |
+| Machine Learning with Python · freeCodeCamp | 06/2023 |
 
-### 04 — CONNECT
+<img src="assets/section-divider.svg" width="100%" alt="" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/monogram-dark.svg">
-  <img src="assets/monogram-light.svg" width="48" alt="ZM">
-</picture>
+### 06 — LANGUAGES
 
-<sub>[Portfolio](https://zainebportfolio.vercel.app/) &nbsp;&#8212;&nbsp; [LinkedIn](https://linkedin.com/in/zaineb-messaoudi-ab7b61252) &nbsp;&#8212;&nbsp; [Email](mailto:zaineb.messaoudi@esprit.tn)</sub>
+Arabic — Native &nbsp;·&nbsp; French — Fluent &nbsp;·&nbsp; English — Intermediate
+
+<br />
+<br />
+
+<div align="center">
+
+<img src="assets/zm-monogram.svg" width="56" alt="ZM monogram" />
+
+**Open to final-year internships (6 months+) starting January — Software Engineering, Web Development, or Applied AI/ML.**
+
+[Portfolio](https://zainebportfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/zaineb-messaoudi-ab7b61252) &nbsp;·&nbsp; [Email](mailto:zaineb.messaoudi@esprit.tn)
+
+<sub>Open source · AI · design · reading, mostly in that order.</sub>
+
+</div>
